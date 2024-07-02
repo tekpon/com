@@ -14,17 +14,17 @@ We are open to all kinds of contributions. If you want to:
 * 📖 Improve documentation
 * 👨‍💻 Contribute to the code
 
-You are more than welcome. Before contributing, kindly check our [guidelines](https://github.com/tekpon/com/CONTRIBUTING.md).
+You are more than welcome. Before contributing, kindly check our [guidelines](https://github.com/tekpon/com/blob/main/CONTRIBUTING.md).
 
 ## 💬 What do you think of tekpon.com?
 
 <div align="left">
     <p><a href="https://twitter.com/Tekponcom"><img alt="Twitter @Tekponcom" align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp; Tweet us @Tekponcom to share your thoughts and stay up-to-date. </p>
     <p><a href="https://www.linkedin.com/company/tekpon/"><img alt="tekpon.com on LinkedIn" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp; Find us on LinkedIn.</p>
-    <p><a href="https://tekpon.com"><img alt="tekpon.com Website" align="center" src="https://github.com/tekpon/com/img/Tekpon-Favicon-32.png" /></a>&nbsp; Visit our home to find the right software for your business.</p>
+    <p><a href="https://tekpon.com"><img alt="tekpon.com Website" align="center" src="https://github.com/tekpon/com/blob/main/img/Tekpon-Favicon-32.png" /></a>&nbsp; Visit our home to find the right software for your business.</p>
 
 ## 📑 License
-Licensed under [AGPL-3.0](https://github.com/tekpon/com/LICENSE).
+Licensed under [AGPL-3.0](https://github.com/tekpon/com/blob/main/LICENSE).
 
 <div align="right">
 
