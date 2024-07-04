@@ -7,13 +7,13 @@ Discover the best software options tailored to your business needs.
 
 Popular Software Categories
 
-**[CRM Software](https://tekpon.com/categories/crm-software/)**
-**[Field Service Management Software](https://tekpon.com/categories/field-service-management-software/)**
-**[Help Desk Software](https://tekpon.com/categories/help-desk-software/)**
-**[Inventory Management Software](https://tekpon.com/categories/inventory-management-software/)**
-**[Landing Page Software](https://tekpon.com/categories/landing-page-software/)**
-**[Project Management Software](https://tekpon.com/categories/project-management-software/)**
-**[Social Media Management Tools](https://tekpon.com/categories/social-media-management-software/)**
+* **[CRM Software](https://tekpon.com/categories/crm-software/)**
+* **[Field Service Management Software](https://tekpon.com/categories/field-service-management-software/)**
+* **[Help Desk Software](https://tekpon.com/categories/help-desk-software/)**
+* **[Inventory Management Software](https://tekpon.com/categories/inventory-management-software/)**
+* **[Landing Page Software](https://tekpon.com/categories/landing-page-software/)**
+* **[Project Management Software](https://tekpon.com/categories/project-management-software/)**
+* **[Social Media Management Tools](https://tekpon.com/categories/social-media-management-software/)**
 
 
 ## 🙌 Want to contribute?
