@@ -3,10 +3,6 @@
 ## Popular Software Categories
 Discover the best software options tailored to your business needs.
 
-[![Tekpon](img/Tekpon-Favicon.png)](https://tekpon.com/)
-
-Popular Software Categories
-
 * **[CRM Software](https://tekpon.com/categories/crm-software/)**
 * **[Field Service Management Software](https://tekpon.com/categories/field-service-management-software/)**
 * **[Help Desk Software](https://tekpon.com/categories/help-desk-software/)**
